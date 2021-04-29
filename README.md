@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adrian Ramirez Lopez! I am a third year Web Design and Engineering Major with a minor in Computer Science and Engineering @ Santa Clara University @adrianramirez14
+- 👋 Hi, I’m Adrian Ramirez Lopez! I am a third year Web Design and Engineering Major with a minor in Computer Science and Engineering @ Santa Clara University 
 - 👀 I’m interested in web development, especially frontend
 - 🌱 I’m currently learning Ruby and soon, Ruby on Rails
 - 💞️ I’m looking to collaborate on anything I get the opportunity on.
